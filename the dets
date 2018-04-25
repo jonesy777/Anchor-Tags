@@ -1,0 +1,3 @@
+If someone ever needs a button to take them to a spot on the same page
+<button><a href="#A">Click Me</a></button> /*this part goes where they click*/
+ <a name="A"></a>  /* this part goes where they want to go */
